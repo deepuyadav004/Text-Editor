@@ -1,4 +1,3 @@
-//Blin Qipa 2019 - Yeditepe University
 #include <iostream>
 #include <string>
 #include <fstream>
